@@ -1,5 +1,5 @@
 # Hi, I'm Paula Carolina!  🖖💻 
-### Quality Assurance (Full QA)
+### Quality Assurance (Analyst)
 
 </div>
  <div>
