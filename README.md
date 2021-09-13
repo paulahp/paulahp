@@ -1,5 +1,5 @@
 # Hi, I'm Paula Carolina!  🖖💻 
-### Quality Assurance (Analyst)
+### Quality Assurance Engineer (Analyst)
 
 </div>
  <div>
