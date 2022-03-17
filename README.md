@@ -15,9 +15,9 @@
      <img height="163em"  alt="Paula-yoda" src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif">
     <div>
 <div> 
- <img align="left" height="33em" alt="Paula-Js"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -
+ <img align="left" height="33em" alt="Paula-Js"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
  
-<img align="left" alt="Paula-Js" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white> -
+<img align="left" alt="Paula-Js" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white> 
  
 <img align="left" alt="Paula-Js" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
     </div>
@@ -29,4 +29,5 @@
       <a href = "mailto:paulac.santos@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 </div> 
+     </div>
  
