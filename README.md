@@ -1,4 +1,4 @@
-<h1 align="center">Welcome</h1>
+<h1 align="center">Hello Guys!👋👋</h1>
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 </div>
 
 <div align="justify">
-Hello Guys!👋👋
+
   
   My name is Paula Carolina, I'm 27 years old and I'm a QA Engineer. 
 
