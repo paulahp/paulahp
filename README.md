@@ -1,7 +1,7 @@
 <h1 align="center">Welcome</h1>
 
 <div align="center">
-/div>
+</div>
 <div align="justify">
 👋👋 Helo! I'm happy to see you here, welcome to my GitHub.
 My name is Paula Carolina, I have 26 old and I'm a QA Engineer.
