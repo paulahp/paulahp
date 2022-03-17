@@ -1,5 +1,24 @@
-# Hi, I'm Paula Carolina!  🖖 
-### 💻 Quality Assurance Engineer 
+<h1 align="center">Welcome</h1>
+
+<div align="center">
+/div>
+<div align="justify">
+👋👋 Helo! I'm happy to see you here, welcome to my GitHub.
+My name is Paula Carolina, I have 26 old and I'm a QA Engineer.
+
+
+- 🌱 I’m currently learning: JavaScript, Node.JS 
+- 💬 Ask me about anything you want
+- 😄 Pronouns: SHE/HER
+
+
+</div>
+
+<h2 align="center">Technologies</h2>
+<p align="center">
+
+ 
+
 
 </div>
  <div>
