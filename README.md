@@ -24,16 +24,17 @@ My name is Paula Carolina, I have 26 old and I'm a QA Engineer.
 <p align="center">
 
 </div>
- <div>
-  <a href="https://github.com/paulahp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulahp&hide=html&layout=compact&theme=dark"/>
-  
 
-   </div> 
    
 <h2 align="center">Metrics</h2>
-<p align="center">
+
  
+  <div>
+  <a href="https://github.com/paulahp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulahp&hide=html&layout=compact&theme=dark"/>
+  <p align="center">
+
+   </div> 
  ##
  <div> 
    <a align="left" href="https://www.linkedin.com/in/paula-carolina-santos/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABagBKkB4Cp4DIzvRSqowuIKvoH5DcjObSk,1635465604937)/">
