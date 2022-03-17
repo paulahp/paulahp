@@ -16,6 +16,7 @@ My name is Paula Carolina, I have 26 years old and I'm a QA Engineer.
 - 😄 Pronouns: SHE/HER
 
  <div> 
+   <div align="center">
    <a align="left" href="https://www.linkedin.com/in/paula-carolina-santos/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABagBKkB4Cp4DIzvRSqowuIKvoH5DcjObSk,1635465604937)/">
      <img height="163em"  alt="Paula-yoda" src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif">
   </div>
@@ -24,7 +25,7 @@ My name is Paula Carolina, I have 26 years old and I'm a QA Engineer.
 
 <h2 align="center">Technologies</h2>
 
-
+<div align="center">
  <a href="https://www.javascript.com/">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do Javascript"/>
     <img height="32" alt="Logo-NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
