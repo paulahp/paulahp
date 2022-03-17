@@ -1,7 +1,13 @@
 <h1 align="center">Welcome</h1>
-  <div align="center"> <a align="center"  href="https://www.linkedin.com/in/paula-carolina-santos/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/paularathlef/" target="_blank"><img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a align="center"  href = "mailto:paulac.santos@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:rathlefpaula@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0B66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qa-paula-carolina//)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-CE3389?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/paularathlef/)
+
+
+  
+  
+  
+  
 </div>
 <div align="center">
 </div>
