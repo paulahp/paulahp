@@ -37,7 +37,7 @@ My name is Paula Carolina, I have 26 years old and I'm a QA Engineer.
    
 <h2 align="center">Metrics</h2>
 
- 
+ <div align="center">
   <div>
   <a href="https://github.com/paulahp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulahp&hide=html&layout=compact&theme=dark"/>
