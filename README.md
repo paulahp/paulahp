@@ -6,11 +6,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-CE3389?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/paularathlef/)
 
   
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:rafaeljwerneck43@gmail)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white)](https://twitter.com/WirisRafael)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0B66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wiris-rafael-januario-wernek-420461182/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-CE3389?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/wiriswerneck/)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-6633cc?style=flat-square&labelColor=6633cc&logo=twitch&logoColor=white)](https://www.twitch.tv/lost905)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:rathlefpaula@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0B66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qa-paula-carolina/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-CE3389?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/paularathlef/)
+
 </div>
 
 <div align="justify">
