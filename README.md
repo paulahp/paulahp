@@ -1,13 +1,17 @@
 <h1 align="center">Welcome</h1>
-
+   <a align="left"  href="https://www.linkedin.com/in/paula-carolina-santos/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/paularathlef/" target="_blank"><img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a align="left"  href = "mailto:paulac.santos@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+</div>
 <div align="center">
 </div>
 <div align="justify">
 👋👋 Helo! I'm happy to see you here, welcome to my GitHub.
-My name is Paula Carolina, I have 26 old and I'm a QA Engineer.
+My name is Paula Carolina, I have 26 years old and I'm a QA Engineer.
 
 
-- 🌱 I’m currently learning: JavaScript, Node.JS 
+- 🌱 I’m currently learning: JavaScript, Node.JS and Java.
+- 💻 Test automation tools: Selenium WebDriver (Java) and Cypress (JavaScript)
 - 💬 Ask me about anything you want
 - 😄 Pronouns: SHE/HER
 
@@ -43,10 +47,7 @@ My name is Paula Carolina, I have 26 old and I'm a QA Engineer.
 
    
 <div>
-   <a align="left"  href="https://www.linkedin.com/in/paula-carolina-santos/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/paularathlef/" target="_blank"><img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a align="left"  href = "mailto:paulac.santos@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div>
+
 </div> 
   
  
