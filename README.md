@@ -32,11 +32,14 @@ I'm happy to see you here, welcome to my GitHub.
 <div align="center">
  <a href="https://www.javascript.com/">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do Javascript"/>
+   </a>
     <a href="https://nodejs.org/en/">
     <img height="32" alt="Logo-NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
        <a href="https://www.java.com/pt-BR/about/">
+         </a>
     <img height="32" alt="Logo-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <p align="center">
+  </a>
 
 </div>
 
