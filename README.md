@@ -42,7 +42,7 @@ Hello Guys!👋👋
 
 </div>
 
-  <div>
+  <div align="center">
   
   ![Snake animation](https://github.com/anabdlv/anabdlv/blob/output/github-contribution-grid-snake.svg)
   
