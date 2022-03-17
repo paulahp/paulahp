@@ -47,7 +47,7 @@ Hello Guys!👋👋
 
  <div align="center">
   <div>
-  ![Snake animation](https://github.com/paulahp/paulahp/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/paulahp/paulahp/blob/output/github-contribution-grid-snake.svg)
   <p align="center">
 
    </div> 
