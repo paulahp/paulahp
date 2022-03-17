@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:rathlefpaula@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0B66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qa-paula-carolina/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathlefpaula@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qa-paula-carolina/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-CE3389?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/paularathlef/)
 
 </div>
