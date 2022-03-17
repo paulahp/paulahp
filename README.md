@@ -12,7 +12,6 @@ I'm happy to see you here, welcome to my GitHub.
   
 My name is Paula Carolina, I'm 27 years old and I'm a QA Engineer
 
-
 - 🌱 I’m currently learning: JavaScript, Node.JS and Java;
 - 💻 Test automation tools: Selenium WebDriver (Java) and Cypress (JavaScript);
 - 💬 Ask me about anything you want!
