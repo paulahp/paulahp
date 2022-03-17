@@ -10,13 +10,11 @@
    
 <div style="display: inline_block"><br>
  <img align="left" height="28em" alt="Paula-Js"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
- 
-<img align="left" alt="Paula-Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
- 
-<img align="left" alt="Paula-Js" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+ <img align="left" alt="Paula-Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
+ <img align="left" alt="Paula-Js" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     </div>
  
- ##
+ 
  <div> 
    <a align="left" href="https://www.linkedin.com/in/paula-carolina-santos/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABagBKkB4Cp4DIzvRSqowuIKvoH5DcjObSk,1635465604937)/">
      <img height="163em"  alt="Paula-yoda" src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif">
