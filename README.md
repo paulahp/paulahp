@@ -1,7 +1,7 @@
 <h1 align="center">Welcome</h1>
-   <a align="left"  href="https://www.linkedin.com/in/paula-carolina-santos/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a align="center"  href="https://www.linkedin.com/in/paula-carolina-santos/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/paularathlef/" target="_blank"><img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a align="left"  href = "mailto:paulac.santos@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+      <a align="center"  href = "mailto:paulac.santos@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
 </div>
