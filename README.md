@@ -47,8 +47,7 @@ Hello Guys!👋👋
 
  <div align="center">
   <div>
-  <a href="https://github.com/paulahp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulahp&hide=html&layout=compact&theme=dark"/>
+  ![Snake animation](https://github.com/paulahp/paulahp/blob/output/github-contribution-grid-snake.svg)
   <p align="center">
 
    </div> 
