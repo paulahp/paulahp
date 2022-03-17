@@ -18,7 +18,7 @@
  
  #
  <div> 
-   <a href="https://www.linkedin.com/in/paula-carolina-santos/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABagBKkB4Cp4DIzvRSqowuIKvoH5DcjObSk,1635465604937)/">
+   <a lign="left" href="https://www.linkedin.com/in/paula-carolina-santos/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABagBKkB4Cp4DIzvRSqowuIKvoH5DcjObSk,1635465604937)/">
      <img height="163em"  alt="Paula-yoda" src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif">
   
    
