@@ -4,8 +4,8 @@
 </div>
  <div>
   <a href="https://github.com/paulahp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulahp&hide=html&layout=compact&theme=dark"/>
   
-   [![paulahp](https://github-readme-stats.vercel.app/api/top-langs/?username=´paulahp&hide=html&layout=compact&theme=default)](https://github.com/paulahp/)
 
    </div> 
    
