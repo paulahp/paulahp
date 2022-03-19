@@ -1,4 +1,4 @@
-<h1 align="center">Hello Guys!👋👋</h1>
+<h1 align="center">Welcome👋👋</h1>
 
 <div align="center">
   
@@ -10,14 +10,24 @@
 
 <div align="justify">
 
-  
+ 
+Hello Guys, how are you?
+  <div>
   My name is Paula Carolina, I'm 27 years old and I'm a QA Engineer. 
-
+    
+  </div>
+<div>
+  
 - 🌱 Languages currently used: JavaScript, Node.JS and Java;
+  
 - 💻 Test automation tools: Selenium WebDriver (Java) and Cypress (JavaScript).
-- 💬 If interested, talk to me!
+  
+- 💬 I speak both English (Intermediary) and Portuguese (Native),
+  
 - 😄 Pronouns: SHE/HER.
+  
 
+</div>
  <div> 
    <div align="center">
    <a align="left" href="https://www.linkedin.com/in/paula-carolina-santos/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABagBKkB4Cp4DIzvRSqowuIKvoH5DcjObSk,1635465604937)/">
@@ -26,7 +36,7 @@
   
 </div>
 
-<h2 align="center">Technologies</h2>
+<h2 align="center">Technologies 🚀</h2>
 
 <div align="center">
  <a href="https://www.javascript.com/">
