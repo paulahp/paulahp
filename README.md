@@ -54,6 +54,6 @@ Hello Guys, how are you?
 
   <div align="center">
   
-  ![Snake animation](https://github.com/anabdlv/anabdlv/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/paulahp/paulahp/blob/output/github-contribution-grid-snake.svg)
   
 </div>
