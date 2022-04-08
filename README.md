@@ -22,7 +22,7 @@ Hello Guys, how are you?
   
 - 💻 Test automation tools: Selenium WebDriver (Java) and Cypress (JavaScript).
   
-- 💬 I speak both English (Intermediary) and Portuguese (Native),
+- 💬 I speak both English (Intermediate) and Portuguese (Native),
   
 - 😄 Pronouns: SHE/HER.
   
